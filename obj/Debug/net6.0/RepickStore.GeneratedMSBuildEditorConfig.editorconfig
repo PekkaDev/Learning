@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RepickStore
+build_property.RootNamespace = RepickStore
+build_property.ProjectDir = D:\WorkArea\VS_Code\PetProjects\Repick\src\RepickStore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\WorkArea\VS_Code\PetProjects\Repick\src\RepickStore
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/Advertisement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2ZXJ0aXNlbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/Advertisement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2ZXJ0aXNlbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/Advertisement/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2ZXJ0aXNlbWVudFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/Advertisement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2ZXJ0aXNlbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkArea/VS_Code/PetProjects/Repick/src/RepickStore/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,27 @@
+@page "{currentPage:min(1)?}"
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Repick Store";
+}
+
+<section>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+        @foreach (var ad in Model.Advertisements)
+        {
+            <div class="col">
+                <div class="card">
+                    <img src="~/images/@($"{ad.Id}_1.jpg")" alt="ad image" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title">@ad.Name</h5>
+                        <p>@ad.Price.ToString("c")</p>
+                    </div>
+                    <div class="card-footer d-flex justify-context-between text-muted">
+                        <small>@ad.CreationDate</small>
+                        <small>@ad.Views</small>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</section>
